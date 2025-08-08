@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-🎓 Final Year Computer Science Engineering student at **Maharaja Institute of Technology, Mysore**  
+🎓 Final Year Computer Science Engineering student 
 🌱 Currently mastering **Java Full Stack Development**  
 💡 Passionate about building impactful solutions using **AI, Web Technologies**  
 🌍 Always open to collaboration, learning, and growing as a developer  
@@ -58,11 +58,6 @@
 | 🔍 ML-powered tool to assess diabetes risk using patient input.<br> 🛠️ Python | Scikit-learn | Flask UI |
 
 ---
-
-## 📜 Education & Certifications
-
-🎓 **B.E. in Computer Science**  
-Maharaja Institute of Technology, Mysore (2021–2025)
 
 📜 **Certifications**  
 - 💻 Java Full Stack Development – QSpiders *(Ongoing)*  
