@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-🎓 Final Year Computer Science Engineering student 
+🎓 Final Year Computer Science Engineering student**
 🌱 Currently mastering **Java Full Stack Development**  
 💡 Passionate about building impactful solutions using **AI, Web Technologies**  
 🌍 Always open to collaboration, learning, and growing as a developer  
