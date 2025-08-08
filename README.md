@@ -9,10 +9,10 @@
 
 ## 🚀 About Me
 
-🎓 Final Year Computer Science Engineering student**
+🎓 Computer Science Engineer** 
 🌱 Currently mastering **Java Full Stack Development**  
 💡 Passionate about building impactful solutions using **AI, Web Technologies**  
-🌍 Always open to collaboration, learning, and growing as a developer  
+🌍 Always open to collaboration, learning, and growing as a developer Com  
 💬 Ask me about **Python, Java, Flask, Machine Learning, or Web Dev**  
 📍 Based in **Mysore, India**
 
