@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-🎓 Computer Science Engineer** 
+🎓 Computer Science **Engineer**
 🌱 Currently mastering **Java Full Stack Development**  
 💡 Passionate about building impactful solutions using **AI, Web Technologies**  
 🌍 Always open to collaboration, learning, and growing as a developer Com  
